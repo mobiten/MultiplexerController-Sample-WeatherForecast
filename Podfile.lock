@@ -1,0 +1,16 @@
+PODS:
+  - MultiplexerController (1.0.0)
+
+DEPENDENCIES:
+  - MultiplexerController (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MultiplexerController
+
+SPEC CHECKSUMS:
+  MultiplexerController: 8b6042e93f577da630d3c4a1ef2b53ccb83be67a
+
+PODFILE CHECKSUM: e06c267e6803327ab0856327523bd0a6301e1377
+
+COCOAPODS: 1.7.5
